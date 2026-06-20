@@ -1,19 +1,50 @@
-<h3> 🛠 &nbsp;Tech Stack</h3>
-<ul style="height: auto !important;">
-<li style="height: auto !important;">:space_invader:
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="MSExcel"></li>
-<li>🌐 &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-239120?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript"></li>
-<li>⚙️ &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-<li>💻 &nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=Android&amp;logoColor=white" alt="Android"></li>
-</ul>
-<br>
-<p>
-</p><h2 id="-recent-projects">📝 Top Projects</h2>
+# Hi, I'm Ben Timothy!
+
+### Economics & Finance Student | AI Prompt Engineer | IT Support & Vibe Coder
+
+I am an undergraduate student at **HSE University Saint Petersburg**, dedicated to bridging the gap between financial systems, macroeconomic theory, and modern technology. My long-term goal is to leverage data-driven insights, economic analysis, and artificial intelligence to contribute meaningfully to future economic policies and strategic financial frameworks.
+
+---
+
+### 🌟 About Me
+- 🎓 **Education:** Currently pursuing my higher education at **HSE University Saint Petersburg**, building a strong foundation in advanced economics, financial markets, and quantitative analysis.
+- 💼 **Past Experience:** Successfully completed an internship at the **Bureau of Leadership Administration, West Kalimantan Provincial Secretariat**, where I managed government administration and corporate financial reporting workflows.
+- 🎯 **Current Focus:** Deep diving into *AI Prompt Engineering*, hands-on IT support troubleshooting, system optimization, and building tech projects through rapid vibe coding.
+- 🗺️ **Aspiration:** Developing the analytical and strategic expertise required to design resilient, tech-driven macroeconomic policies for the next generation.
+
+---
+
+### 🛠️ Skills & Tools
+
+| Domain | Skills & Tools |
+| :--- | :--- |
+| **Programming & Scripting**| Python, Java, JavaScript, HTML, CSS, Batchfiles (Windows Scripting) |
+| **Finance & Analytics** | Financial Accounting, Quantitative Analysis, Advanced Spreadsheets (Excel / Google Sheets) |
+| **Technology & AI** | AI Prompt Engineering, Workflow Automation, Data Analysis Basics |
+| **IT Support & Tech** | Technical Troubleshooting, System Configuration, IT Support Operations, Vibe Coding |
+| **Development & Control** | Git, GitHub |
+
+---
+
+### 📊 GitHub Statistics
+
+Monitored repository metrics and development stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenTimothyM&show_icons=true&theme=nord&count_private=true" alt="Ben's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenTimothyM&layout=compact&theme=nord" alt="Ben's Top Languages" width="350"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+- 🔗 **Lynk:** [lynk.id/bnthymoo](https://lynk.id/bnthymoo)
+- 🐙 **GitHub:** [github.com/BenTimothyM](https://github.com/BenTimothyM)
+- 📧 **Email:** [bentimothy824@gmail.com](mailto:bentimothy824@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Intersecting economic rigor, financial integrity, and technological innovation to shape a sustainable future."</i>
+</p>
