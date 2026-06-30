@@ -26,17 +26,6 @@ I am an undergraduate student at **HSE University Saint Petersburg**, dedicated 
 
 ---
 
-### 📊 GitHub Statistics
-
-Monitored repository metrics and development stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenTimothyM&show_icons=true&theme=nord&count_private=true" alt="Ben's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenTimothyM&layout=compact&theme=nord" alt="Ben's Top Languages" width="350"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 - 🔗 **Lynk:** [lynk.id/bnthymoo](https://lynk.id/bnthymoo)
