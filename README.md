@@ -7,7 +7,7 @@ I am an undergraduate student at **HSE University Saint Petersburg**, dedicated 
 ---
 
 ### 🌟 About Me
-- 🎓 **Education:** Currently pursuing my higher education at **HSE University Saint Petersburg**, building a strong foundation in advanced economics, financial markets, and quantitative analysis.
+- 🎓 **Education:** Currently pursuing my higher education at **Tomsk State University**, building a strong foundation in advanced economics, financial markets, and quantitative analysis.
 - 💼 **Past Experience:** Successfully completed an internship at the **Bureau of Leadership Administration, West Kalimantan Provincial Secretariat**, where I managed government administration and corporate financial reporting workflows.
 - 🎯 **Current Focus:** Deep diving into *AI Prompt Engineering*, hands-on IT support troubleshooting, system optimization, and building tech projects through rapid vibe coding.
 - 🗺️ **Aspiration:** Developing the analytical and strategic expertise required to design resilient, tech-driven macroeconomic policies for the next generation.
