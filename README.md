@@ -2,7 +2,7 @@
 
 ### Economics & Finance Student | AI Prompt Engineer | IT Support & Vibe Coder
 
-I am an undergraduate student at **HSE University Saint Petersburg**, dedicated to bridging the gap between financial systems, macroeconomic theory, and modern technology. My long-term goal is to leverage data-driven insights, economic analysis, and artificial intelligence to contribute meaningfully to future economic policies and strategic financial frameworks.
+I am an undergraduate student at **Tomsk State University**, dedicated to bridging the gap between financial systems, macroeconomic theory, and modern technology. My long-term goal is to leverage data-driven insights, economic analysis, and artificial intelligence to contribute meaningfully to future economic policies and strategic financial frameworks.
 
 ---
 
