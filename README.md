@@ -2,7 +2,7 @@
 
 ### Economics & Finance Student | AI Prompt Engineer | IT Support & Vibe Coder
 
-I am an undergraduate student at **Tomsk State University**, dedicated to bridging the gap between financial systems, macroeconomic theory, and modern technology. My long-term goal is to leverage data-driven insights, economic analysis, and artificial intelligence to contribute meaningfully to future economic policies and strategic financial frameworks.
+I am an undergraduate student at **Tanjungpura University**, dedicated to bridging the gap between financial systems, macroeconomic theory, and modern technology. My long-term goal is to leverage data-driven insights, economic analysis, and artificial intelligence to contribute meaningfully to future economic policies and strategic financial frameworks.
 
 ---
 
@@ -28,7 +28,7 @@ I am an undergraduate student at **Tomsk State University**, dedicated to bridgi
 
 ### 🌐 Connect with Me
 
-- 🔗 **Lynk:** [lynk.id/bnthymoo](https://lynk.id/bnthymoo)
+- 🔗 **Portofolio:** [nneb.is-a.dev](https://nneb.is-a.dev)
 - 🐙 **GitHub:** [github.com/BenTimothyM](https://github.com/BenTimothyM)
 - 📧 **Email:** [bentimothy824@gmail.com](mailto:bentimothy824@gmail.com)
 
